@@ -1,0 +1,22 @@
+{
+  "name": "@aetherz/auth-connections",
+  "version": "1.0.1",
+  "description": "Library autentikasi WhatsApp bot Aetherz, verifikasi nomor dan IP.",
+  "type": "module",
+  "main": "verazaa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "whatsapp",
+    "aetherz",
+    "bot",
+    "verifikasi"
+  ],
+  "author": "AETHERZCODE",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
